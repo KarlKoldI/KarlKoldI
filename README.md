@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Karl!
 
-<!--
-**KarlKoldI/KarlKoldI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 IT Student at [Haapsalu Kutsehariduskeskus](https://www.hkhk.edu.ee/)**
 
-Here are some ideas to get you started:
+I am a passionate IT student dedicated to coding, problem-solving, and exploring the vast world of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About Me
+* 📚 **Current Focus:** Deep diving into **Robotics** and advanced **Coding**.
+* 🌱 **Growth Mindset:** Always growing and eager to collaborate on cool projects.
+
+
+---
+
+**Web Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Programming & GUI**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
+
+---
+
+### 🚀 Featured Projects
+
+
+---
+
+### 📫 Let's Connect
+* **GitHub:** [Karl Kold](https://github.com/KarlKoldI)
+* **LinkedIn:** [Karl Kold](*www.linkedin.com/in/karl-kold-43979235b*)
+---
